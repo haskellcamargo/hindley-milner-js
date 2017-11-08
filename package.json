@@ -1,0 +1,18 @@
+{
+  "name": "hindley-milner",
+  "version": "0.1.0",
+  "description": "Algorithm W implementation for type inference and parametric polymorphism in Vanilla JS",
+  "main": "lib/index.js",
+  "repository": "https://github.com/haskellcamargo/hindley-milner-vanilla-js.git",
+  "author": "Marcelo Camargo <marcelocamargo@linuxmail.org>",
+  "license": "MIT",
+  "keywords": [
+    "type-inference",
+    "hindley-milner",
+    "polymorphism",
+    "algorithm-w",
+    "parametric-polymorphism",
+    "type-theory",
+    "damas-milner"
+  ]
+}
